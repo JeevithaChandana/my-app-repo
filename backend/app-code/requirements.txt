@@ -1,0 +1,2 @@
+echo "flask\npsycopg2" > backend/app-code/requirements.txt
+
